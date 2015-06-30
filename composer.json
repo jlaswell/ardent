@@ -19,9 +19,9 @@
     },
     "require": {
         "php": ">=5.3.0",
-        "illuminate/support": "5",
-        "illuminate/database": "5",
-        "illuminate/validation": "5"
+        "illuminate/support": "~5",
+        "illuminate/database": "~5",
+        "illuminate/validation": "~5"
     },
     "autoload": {
         "psr-0": {
