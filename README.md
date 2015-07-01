@@ -1,3 +1,7 @@
+# Danger, Dange, Danger
+
+This package has been updated to require packages that are only listed as require-dev dependencies. Don't use this repo. Plz
+
 Ardent
 ======
 
